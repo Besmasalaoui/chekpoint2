@@ -1,0 +1,9 @@
+
+
+.home{color: aqua;}
+.about{color:blueviolet}
+.contact{color:chocolate}
+a:visited{color:greenyellow;}
+.home{font-style:italic;}
+body{font-family:roboto;}
+div:hover{color:bisque}
